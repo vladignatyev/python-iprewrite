@@ -6,3 +6,10 @@ Installation and usage
 3. Run ```python example.py``` 
 4. Look at the source code of ```example.py``` for usage example of obtained IP ranges table.
  
+TODO
+====
+
+1. Test coverage, pep8
+2. Replace bruteforce with euristical algorithm
+3. Add IP masks generation
+4. Add Nginx configs generation from Apache configs.
